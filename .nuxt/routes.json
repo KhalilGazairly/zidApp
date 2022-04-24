@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "/home/khalil-gazairly/workspace/zidapp/hr/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4a492594"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "/home/khalil-gazairly/workspace/zidapp/hr/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4a492594"
+  }
+]

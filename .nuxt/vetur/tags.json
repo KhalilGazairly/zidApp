@@ -1,0 +1,17 @@
+{
+  "HomeApplications": {
+    "description": "Auto imported from components/home/applications.vue"
+  },
+  "HomeFeatureSection": {
+    "description": "Auto imported from components/home/featureSection.vue"
+  },
+  "HomeLandingPart": {
+    "description": "Auto imported from components/home/landingPart.vue"
+  },
+  "HomeVideoSection": {
+    "description": "Auto imported from components/home/videoSection.vue"
+  },
+  "Index": {
+    "description": "Auto imported from components/index/index.vue"
+  }
+}
