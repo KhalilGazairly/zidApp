@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/home-applications.js": "components/home-applications.js",
+    "components/home-feature-section.js": "components/home-feature-section.js",
+    "components/home-landing-part.js": "components/home-landing-part.js",
+    "components/home-video-section.js": "components/home-video-section.js",
+    "components/index.js": "components/index.js",
+    "lang-ar.json.js": "lang-ar.json.js",
+    "lang-en.json.js": "lang-en.json.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/home-applications.js": "components/home-applications.js.map",
+    "components/home-feature-section.js": "components/home-feature-section.js.map",
+    "components/home-landing-part.js": "components/home-landing-part.js.map",
+    "components/home-video-section.js": "components/home-video-section.js.map",
+    "components/index.js": "components/index.js.map",
+    "lang-ar.json.js": "lang-ar.json.js.map",
+    "lang-en.json.js": "lang-en.json.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

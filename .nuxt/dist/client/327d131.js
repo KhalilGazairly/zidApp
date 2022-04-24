@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{473:function(o){o.exports=JSON.parse('{"lang":{"language":"English","dir":"ltr","dirR":"left","other":"عربي"},"Home":"Home","About":"About"}')}}]);

@@ -53,7 +53,7 @@
           </div>
 
           <div>
-            <NuxtLink :to="localePath('/UserProfile')">
+            <NuxtLink :to="localePath('/')">
               <v-list-item link>
                 <!-- <font-awesome-icon icon="user" class="fa" /> -->
                 <v-list-item-title class="text-center">

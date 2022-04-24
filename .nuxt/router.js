@@ -4,7 +4,7 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _4a492594 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _3ef29d18 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -12,18 +12,18 @@ Vue.use(Router)
 
 export const routerOptions = {
   mode: 'history',
-  base: '/',
+  base: '/zidApp/',
   linkActiveClass: 'nuxt-link-active',
   linkExactActiveClass: 'nuxt-link-exact-active',
   scrollBehavior,
 
   routes: [{
     path: "/ar",
-    component: _4a492594,
+    component: _3ef29d18,
     name: "index___ar"
   }, {
     path: "/",
-    component: _4a492594,
+    component: _3ef29d18,
     name: "index___en"
   }],
 

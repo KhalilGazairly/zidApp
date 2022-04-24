@@ -6,7 +6,7 @@ export const Constants = {
   REDIRECT_ON_OPTIONS: {"ALL":"all","ROOT":"root","NO_PREFIX":"no prefix"},
 }
 export const nuxtOptions = {
-  isUniversalMode: true,
+  isUniversalMode: false,
   trailingSlash: undefined,
 }
 export const options = {
@@ -20,7 +20,7 @@ export const options = {
   sortRoutes: true,
   strategy: "prefix_except_default",
   lazy: true,
-  langDir: "/home/khalil-gazairly/workspace/zidapp/hr/lang",
+  langDir: "/home/khalil-gazairly/workspace/zidapp/zidapp/lang",
   rootRedirect: null,
   detectBrowserLanguage: {"alwaysRedirect":false,"cookieCrossOrigin":false,"cookieDomain":null,"cookieKey":"i18n_redirected","cookieSecure":false,"fallbackLocale":"","redirectOn":"root","useCookie":true},
   differentDomains: false,

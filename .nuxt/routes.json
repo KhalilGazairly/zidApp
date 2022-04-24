@@ -2,15 +2,15 @@
   {
     "name": "index___ar",
     "path": "/ar",
-    "component": "/home/khalil-gazairly/workspace/zidapp/hr/pages/index.vue",
+    "component": "/home/khalil-gazairly/workspace/zidapp/zidapp/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_4a492594"
+    "_name": "_3ef29d18"
   },
   {
     "name": "index___en",
     "path": "/",
-    "component": "/home/khalil-gazairly/workspace/zidapp/hr/pages/index.vue",
+    "component": "/home/khalil-gazairly/workspace/zidapp/zidapp/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_4a492594"
+    "_name": "_3ef29d18"
   }
 ]
